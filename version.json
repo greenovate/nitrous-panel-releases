@@ -1,8 +1,6 @@
 {
-  "version": "1.3.0",
-  "build": 130,
-  "minOS": "13.0",
-  "releaseDate": "2025-12-06",
-  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/raw/main/NitrousPanel-v1.3.0.zip",
-  "releaseNotes": "• Update checker - notifies you of new versions\n• Check for Updates menu item\n• Custom app icon (moon with stars)\n• Deep Blacks mode for enhanced contrast\n• XDR brightness up to 1600 nits"
+  "version": "1.4.0",
+  "build": 140,
+  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.4.0/NitrousPanel-v1.4.0.zip",
+  "releaseNotes": "v1.4.0: Sparkle auto-updates, EdDSA signed releases, background update checks"
 }
