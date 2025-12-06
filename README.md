@@ -15,7 +15,7 @@
 
 ### Latest Release: v1.2.2
 
-**[⬇️ Download Nitrous Panel v1.2.2](https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.2.2/NitrousPanel-v1.2.2.zip)**
+**[⬇️ Download Nitrous Panel v1.2.2](https://github.com/greenovate/nitrous-panel-releases/raw/main/NitrousPanel-v1.2.2.zip)**
 
 #### Installation
 1. Download and unzip
