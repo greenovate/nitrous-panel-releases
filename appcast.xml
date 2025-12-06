@@ -8,7 +8,7 @@
     
     <item>
       <title>Version 1.4.1</title>
-      <pubDate>Fri, 06 Dec 2024 03:50:00 +0000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 04:00:00 +0000</pubDate>
       <sparkle:version>141</sparkle:version>
       <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -22,8 +22,8 @@
       <enclosure
         url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.4.1/NitrousPanel-v1.4.1.zip"
         type="application/octet-stream"
-        sparkle:edSignature="F2DpcmkHuVf9hzFX9T74unGmm1S8BFIXOvh37FCbdaWbDiJjtb0dgvvVayqCEM3lKnsW3uoYFMZtO4WGy/bpBw=="
-        length="4548057"
+        sparkle:edSignature="iR5TD8rzOogzQ2ZFl8Be8PHgFPVJ7zi5ijLUHV1cVKbG5UBWSyIP3zVtLkzXPwrzzyf4EsmF1lAR9jPurWY+Aw=="
+        length="4548994"
       />
     </item>
 
@@ -38,8 +38,6 @@
         <ul>
           <li>🔄 Professional auto-update system via Sparkle framework</li>
           <li>🔐 EdDSA signed updates for security</li>
-          <li>✨ Seamless background update checks</li>
-          <li>📦 All features from v1.3.0: XDR brightness, Deep Blacks, licensing</li>
         </ul>
       ]]></description>
       <enclosure
