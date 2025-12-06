@@ -5,7 +5,7 @@
 > **Unlock 1600 nits without washing out your display.**  
 > True blacks. Vibrant colors. Professional quality.
 
-![Version](https://img.shields.io/badge/Version-1.3.0-green)
+![Version](https://img.shields.io/github/v/release/greenovate/nitrous-panel-releases?label=Version&color=green)
 ![macOS](https://img.shields.io/badge/macOS-13.0+-blue)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-M1/M2/M3/M4-orange)
 
@@ -13,9 +13,9 @@
 
 ## Download
 
-### Latest Release: v1.3.0
+**[⬇️ Download Latest Release](https://github.com/greenovate/nitrous-panel-releases/releases/latest)**
 
-**[⬇️ Download Nitrous Panel v1.3.0](https://github.com/greenovate/nitrous-panel-releases/raw/main/NitrousPanel-v1.3.0.zip)**
+See [all releases](https://github.com/greenovate/nitrous-panel-releases/releases) for changelog and previous versions.
 
 #### Installation
 1. Download and unzip
