@@ -1,0 +1,8 @@
+{
+  "version": "1.2.2",
+  "build": 122,
+  "minOS": "13.0",
+  "releaseDate": "2025-12-06",
+  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.2.2/NitrousPanel-v1.2.2.zip",
+  "releaseNotes": "• Deep Blacks mode for enhanced contrast\n• XDR brightness up to 1600 nits\n• Improved stability and performance"
+}
