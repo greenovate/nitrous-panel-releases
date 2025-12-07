@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "build": 151,
-  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.1/NitrousPanel-v1.5.1.zip",
-  "releaseNotes": "v1.5.1: Security improvements, license validation"
+  "version": "1.5.2",
+  "build": 152,
+  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.2/NitrousPanel-v1.5.2.zip",
+  "releaseNotes": "v1.5.2: XDR Nitro branding, resolution control, menu icons"
 }

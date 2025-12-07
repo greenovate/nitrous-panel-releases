@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Nitrous Panel Updates</title>
-    <link>https://raw.githubusercontent.com/greenovate/nitrous-panel-releases/main/appcast.xml</link>
-    <description>Nitrous Panel - XDR Brightness Control for Mac</description>
     <language>en</language>
     <item>
-      <title>Version 1.5.1</title>
-      <sparkle:version>151</sparkle:version>
-      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <title>Version 1.5.2</title>
+      <sparkle:version>152</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 07 Dec 2025 12:00:00 +0000</pubDate>
       <description><![CDATA[
-        <h2>Version 1.5.1</h2>
+        <h2>What's New in 1.5.2</h2>
         <ul>
-          <li>Security update: License validation improvements</li>
-          <li>Fixed license key verification</li>
+          <li>🚀 XDR Nitro branding - Enable/Disable XDR Nitro</li>
+          <li>🖥️ Resolution control - change display resolution from menu</li>
+          <li>🎨 Menu icons - visual indicators for enabled features</li>
         </ul>
       ]]></description>
-      <enclosure 
-        url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.1/NitrousPanel-v1.5.1.zip"
-        sparkle:edSignature="dUIiRFEq3U757rKvKPEJV4HSWVUTzUuQeVze5rpTejdA2iAp1uEF6IQpmTL+ELiV2KW6M6Jf6WKfD6LrpB/HAg=="
-        length="4684565"
+      <pubDate>Sat, 07 Dec 2024 18:47:00 -0500</pubDate>
+      <enclosure
+        url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.2/NitrousPanel-v1.5.2.zip"
+        sparkle:edSignature="pGR75It+sLjXuxLoTV6O3XX/gd7FbPjuDlRWU/d2YO458L5prFLCg/fVRBrdI7FEmnoIRj+Kc2uBruFjdwCiAQ=="
+        length="1761647"
         type="application/octet-stream"/>
     </item>
   </channel>
