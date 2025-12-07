@@ -6,23 +6,22 @@
     <description>Nitrous Panel - XDR Brightness Control for Mac</description>
     <language>en</language>
     <item>
-      <title>Version 1.5.0</title>
-      <sparkle:version>150</sparkle:version>
-      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <title>Version 1.5.1</title>
+      <sparkle:version>151</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Sat, 14 Jun 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2025 12:00:00 +0000</pubDate>
       <description><![CDATA[
-        <h2>Version 1.5.0</h2>
+        <h2>Version 1.5.1</h2>
         <ul>
-          <li>Improved license activation system</li>
-          <li>Enhanced security and stability</li>
-          <li>Developer ID signed for macOS security</li>
+          <li>Security update: License validation improvements</li>
+          <li>Fixed license key verification</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.0/NitrousPanel-v1.5.0.zip"
-        sparkle:edSignature="efVusAowjYzUMIpmAITkIQsIy8/4bWeTED9LP1yXhq4ObHNJsB77VPqhOL0RSbHCrRKJZejOn9RG2hXqo770Cw=="
-        length="4684514"
+        url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.1/NitrousPanel-v1.5.1.zip"
+        sparkle:edSignature="dUIiRFEq3U757rKvKPEJV4HSWVUTzUuQeVze5rpTejdA2iAp1uEF6IQpmTL+ELiV2KW6M6Jf6WKfD6LrpB/HAg=="
+        length="4684565"
         type="application/octet-stream"/>
     </item>
   </channel>
