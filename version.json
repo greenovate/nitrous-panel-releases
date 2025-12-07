@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "build": 140,
-  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.4.0/NitrousPanel-v1.4.0.zip",
-  "releaseNotes": "v1.4.0: Sparkle auto-updates, EdDSA signed releases, background update checks"
+  "version": "1.5.1",
+  "build": 151,
+  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.1/NitrousPanel-v1.5.1.zip",
+  "releaseNotes": "v1.5.1: Security improvements, license validation"
 }
