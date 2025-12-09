@@ -4,23 +4,24 @@
     <title>Nitrous Panel Updates</title>
     <language>en</language>
     <item>
-      <title>Version 1.5.2</title>
-      <sparkle:version>152</sparkle:version>
-      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <title>Version 1.6.1</title>
+      <sparkle:version>161</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.5.2</h2>
+        <h2>What's New in 1.6.1</h2>
         <ul>
-          <li>🚀 XDR Nitro branding - Enable/Disable XDR Nitro</li>
-          <li>🖥️ Resolution control - change display resolution from menu</li>
-          <li>🎨 Menu icons - visual indicators for enabled features</li>
+          <li>🔧 Fixed Deep Blacks not applying on launch</li>
+          <li>🎨 Cleaner menu UI - removed redundant icons</li>
+          <li>📺 Improved display section headers</li>
+          <li>🧹 Removed unreliable DDC brightness control</li>
         </ul>
       ]]></description>
-      <pubDate>Sat, 07 Dec 2024 19:05:00 -0500</pubDate>
+      <pubDate>Sun, 08 Dec 2024 19:21:00 -0500</pubDate>
       <enclosure
-        url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.5.2/NitrousPanel-v1.5.2.zip"
-        sparkle:edSignature="X5VvHYJmvAfbE6ey8F7BWiD65+lTVYRIAvMzS1MXo39cVUUESf4w4R1rDM0+CmI9JwrFpiqBKh2gRk13mNsuDw=="
-        length="4699931"
+        url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.1/NitrousPanel-v1.6.1.zip"
+        sparkle:edSignature="TiIWX5flZD51bfPOYV5AMEo8JXe/X/iLYFfVM+dRwJyXjC9UzwMaT9MSHHx17yjM/dUNWUfshwJMejG2MTfnBA=="
+        length="4726278"
         type="application/octet-stream"/>
     </item>
   </channel>
