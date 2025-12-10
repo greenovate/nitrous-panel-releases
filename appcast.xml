@@ -4,21 +4,22 @@
     <title>Nitrous Panel Updates</title>
     <language>en</language>
     <item>
-      <title>Version 1.6.5</title>
-      <sparkle:version>165</sparkle:version>
-      <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+      <title>Version 1.6.6</title>
+      <sparkle:version>166</sparkle:version>
+      <sparkle:shortVersionString>1.6.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Whats New in 1.6.5</h2>
+        <h2>What's New in 1.6.6</h2>
         <ul>
-          <li>New floating brightness panel</li>
-          <li>Instant button response</li>
-          <li>License key backup for Pro users</li>
+          <li>Tabbed Settings window (General, License, About)</li>
+          <li>Fixed brightness slider dropping drag events</li>
+          <li>Added Discord and GitHub Issues links</li>
+          <li>Simple icon mode now uses monochrome icon</li>
           <li>UI polish and improvements</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 10 Dec 2025 14:00:00 -0500</pubDate>
-      <enclosure url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.5/NitrousPanel-v1.6.5.zip" sparkle:edSignature="iLtGL/O1nFGevPFzBuPsWzYvsM5yW2FfcQz0PIEZPeO3q3bPi/jU3HRpBofb2VAj4I2hOn3KmQW7h4F0OZVeDA==" length="4749032" type="application/octet-stream"/>
+      <pubDate>Tue, 10 Dec 2025 18:00:00 -0500</pubDate>
+      <enclosure url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.6/NitrousPanel-v1.6.6.zip" sparkle:edSignature="MxpPRe/bLkSJAja3ZZy5XfBqUbZXtPs3BdBKOeq/YuA/tVVLTacW52efv0CjHAQr9vaD4Ifpf6WbNB4+isZ2Dg==" length="4752387" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
