@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "build": 161,
-  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.1/NitrousPanel-v1.6.1.zip",
-  "releaseNotes": "v1.6.1: Fixed Deep Blacks persistence, cleaner menu UI, removed DDC"
+  "version": "1.6.5",
+  "build": 165,
+  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.5/NitrousPanel-v1.6.5.zip",
+  "releaseNotes": "v1.6.5: New floating panel, instant button response, license key backup"
 }
