@@ -1,6 +1,6 @@
 {
-  "version": "1.6.8",
-  "build": 168,
-  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.8/NitrousPanel-v1.6.8.dmg",
-  "releaseNotes": "v1.6.8: Free limit 600 nits, Deep Blacks Pro-only, $19.99 pricing, Terms link fixed"
+  "version": "1.6.9",
+  "build": 169,
+  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.9/NitrousPanel-v1.6.9.dmg",
+  "releaseNotes": "v1.6.9: Cleaned up license dialog"
 }

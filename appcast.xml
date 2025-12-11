@@ -4,22 +4,18 @@
     <title>Nitrous Panel Updates</title>
     <language>en</language>
     <item>
-      <title>Version 1.6.8</title>
-      <sparkle:version>168</sparkle:version>
-      <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
+      <title>Version 1.6.9</title>
+      <sparkle:version>169</sparkle:version>
+      <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.6.8</h2>
+        <h2>What's New in 1.6.9</h2>
         <ul>
-          <li>Free version now limited to 600 nits (was 800)</li>
-          <li>Deep Blacks is now a Pro-only feature</li>
-          <li>Updated pricing to $19.99</li>
-          <li>Fixed Terms link</li>
-          <li>Improved license enforcement</li>
+          <li>Cleaned up license dialog</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 10 Dec 2025 22:30:00 -0500</pubDate>
-      <enclosure url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.8/NitrousPanel-v1.6.8.dmg" sparkle:edSignature="osrXLHMO9JlB9X7VKGeqEBA/ZxhoiDOm48tyXPlSQgmSAM/m7TxbKnYwRUB6KLasD6XukcvQ5YDE1A1kcS1yCA==" length="2716414" type="application/octet-stream"/>
+      <pubDate>Tue, 10 Dec 2025 23:00:00 -0500</pubDate>
+      <enclosure url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.9/NitrousPanel-v1.6.9.dmg" sparkle:edSignature="D4OO4itlEpNFzAN+OMgvzhse9orAJrzvx2Lr1J2hV1IjeiBZ6w4sJ6A0mZs65aZpU8xn0T/cT/OBHZASnf5WDA==" length="2716349" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
