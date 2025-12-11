@@ -4,18 +4,22 @@
     <title>Nitrous Panel Updates</title>
     <language>en</language>
     <item>
-      <title>Version 1.6.9</title>
-      <sparkle:version>169</sparkle:version>
-      <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
+      <title>Version 1.7.0</title>
+      <sparkle:version>170</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.6.9</h2>
+        <h2>What's New in 1.7.0</h2>
         <ul>
-          <li>Cleaned up license dialog</li>
+          <li>Update notifications - see when a new version is available</li>
+          <li>Menu bar badge shows when updates are ready</li>
+          <li>New Advanced settings tab with CLI installer</li>
+          <li>Control brightness from Terminal with 'nitrous' command</li>
+          <li>Reset settings option for troubleshooting</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 10 Dec 2025 23:00:00 -0500</pubDate>
-      <enclosure url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.9/NitrousPanel-v1.6.9.dmg" sparkle:edSignature="D4OO4itlEpNFzAN+OMgvzhse9orAJrzvx2Lr1J2hV1IjeiBZ6w4sJ6A0mZs65aZpU8xn0T/cT/OBHZASnf5WDA==" length="2716349" type="application/octet-stream"/>
+      <pubDate>Wed, 11 Dec 2025 00:00:00 -0500</pubDate>
+      <enclosure url="https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.7.0/NitrousPanel-v1.7.0.dmg" sparkle:edSignature="rMWCM9CRtLyTtRcS4n7kswu2TmifyVUdO6FZNr/z8vzafOh0HODBPwKWStNKxnywv2m6T4zSnT6+kzGB1e8NBw==" length="2731085" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>

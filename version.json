@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
-  "build": 169,
-  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.6.9/NitrousPanel-v1.6.9.dmg",
-  "releaseNotes": "v1.6.9: Cleaned up license dialog"
+  "version": "1.7.0",
+  "build": 170,
+  "downloadURL": "https://github.com/greenovate/nitrous-panel-releases/releases/download/v1.7.0/NitrousPanel-v1.7.0.dmg",
+  "releaseNotes": "v1.7.0: Update notifications, CLI installer, Advanced settings"
 }
